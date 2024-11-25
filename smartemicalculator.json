@@ -34,6 +34,7 @@
         "EMICollapsiblebannerTimer": 500000,
         "EMInativeclickupgrade": 0,
         "EMIaffiliate_url": "null",
+        "EMINaffiliate_url": "null",
         "EMIfbAppID": "1234",
         "EMIfbClientID": "5678",
         "EMIuserTracking": 0,
