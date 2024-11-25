@@ -1,1 +1,82 @@
-
+{
+    "EMIstatus": {
+        "EMIappName": "Smart Loan EMI Calculator",
+        "EMIadStatus": 0,
+        "EMIadmob_adstatus": 0,
+        "EMIfacebook_adstatus": 0
+    },
+    "admob": {
+        "EMIappopen_id": "",
+        "EMIbanner_id": "",
+        "EMInative_id": "",
+        "EMIinterstitial_id": ""
+    },
+    "facebook": {
+        "EMIbanner_id": "",
+        "EMInative_id": "",
+        "EMIinterstitial_id": ""
+    },
+    "frequency_capping": {
+        "EMIfrequency_banner": "0",
+        "EMIfrequency_native": "0",
+        "EMIfrequency_interstitial": "0",
+        "EMIfrequency_Backinterstitial": "0",
+        "EMIfrequency_affiliate": "0"
+    },
+    "extra": {
+        "EMIprivacyPolicy": "https:\/\/EMIemicalculator.blogspot.com\/2024\/11\/privacy-policy.html",
+        "EMIcontactUS": "https:\/\/forms.gle\/vMo7Hy79BbSTjNvV9",
+        "EMIextrascreen": "0",
+        "EMIinterAdDialog": 0,
+        "EMInativeLayoutRandom": 0,
+        "EMInativeType": "default",
+        "EMIbannerTimer": 250000,
+        "EMICollapsiblebannerTimer": 500000,
+        "EMInativeclickupgrade": 0,
+        "EMIaffiliate_url": "null",
+        "EMIfbAppID": "1234",
+        "EMIfbClientID": "5678",
+        "EMIuserTracking": 0,
+        "EMIuserTrackingURL": "utm_source=google-play&utm_medium=organic",
+        "EMIuserTrackingType": 0,
+        "EMIcollapsizeBanner": 0,
+        "EMIOpenisInter": false,
+        "EMIsomeTimeAgain": 0,
+        "EMINativeisBannerAdShown": false,
+        "EMIBannerisNativeAdShown": false,
+        "EMIReturnUserCare": false,
+        "EMIenableNotify": ""
+    },
+    "appInstallextra": {
+        "adStatus": 0,
+        "admob_adstatus": 0,
+        "facebook_adstatus": 0,
+        "appopen_id": "",
+        "banner_id": "",
+        "native_id": "",
+        "fb_banner_id": "",
+        "fb_native_id": "",
+        "fb_interstitial_id": "",
+        "frequency_banner": "0",
+        "frequency_native": "0",
+        "frequency_interstitial": "0",
+        "frequency_Backinterstitial": "0",
+        "frequency_affiliate": "0",
+        "extrascreen": "0",
+        "interAdDialog": 0,
+        "nativeLayoutRandom": 0,
+        "nativeType": "default",
+        "bannerTimer": 200000,
+        "CollapsiblebannerTimer": 200000,
+        "nativeclickupgrade": 0,
+        "affiliate_url": "null",
+        "collapsizeBanner": 0,
+        "OpenisInter": false,
+        "someTimeAgain": 0,
+        "NativeisBannerAdShown": false,
+        "BannerisNativeAdShown": false,
+        "EMIReturnUserCare": false,
+        "enableNotify": ""
+    },
+    "customBanner": []
+}
