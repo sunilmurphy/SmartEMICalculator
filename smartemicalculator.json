@@ -1,15 +1,15 @@
 {
     "EMIstatus": {
         "EMIappName": "Smart Loan EMI Calculator",
-        "EMIadStatus": 0,
-        "EMIadmob_adstatus": 0,
+        "EMIadStatus": 1,
+        "EMIadmob_adstatus": 1,
         "EMIfacebook_adstatus": 0
     },
     "admob": {
-        "EMIappopen_id": "",
-        "EMIbanner_id": "",
-        "EMInative_id": "",
-        "EMIinterstitial_id": ""
+        "EMIappopen_id": "/21775744923/example/app-open",
+        "EMIbanner_id": "/21775744923/example/adaptive-banner",
+        "EMInative_id": "/21775744923/example/native",
+        "EMIinterstitial_id": "/21775744923/example/interstitial"
     },
     "facebook": {
         "EMIbanner_id": "",
@@ -26,9 +26,9 @@
     "extra": {
         "EMIprivacyPolicy": "https:\/\/EMIemicalculator.blogspot.com\/2024\/11\/privacy-policy.html",
         "EMIcontactUS": "https:\/\/forms.gle\/vMo7Hy79BbSTjNvV9",
-        "EMIextrascreen": "0",
+        "EMIextrascreen": "1",
         "EMIinterAdDialog": 0,
-        "EMInativeLayoutRandom": 0,
+        "EMInativeLayoutRandom": 1,
         "EMInativeType": "default",
         "EMIbannerTimer": 250000,
         "EMICollapsiblebannerTimer": 500000,
