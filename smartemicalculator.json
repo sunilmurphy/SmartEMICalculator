@@ -1,15 +1,15 @@
 {
     "EMIstatus": {
         "EMIappName": "Smart Loan EMI Calculator",
-        "EMIadStatus": 0,
-        "EMIadmob_adstatus": 0,
+        "EMIadStatus": 1,
+        "EMIadmob_adstatus": 1,
         "EMIfacebook_adstatus": 0
     },
     "admob": {
-        "EMIappopen_id": "",
-        "EMIbanner_id": "",
-        "EMInative_id": "",
-        "EMIinterstitial_id": ""
+        "EMIappopen_id": "/21952429235,22479114759/HeetVaddoriya_com.loanemi.emicalculator.loanemicalculator_AppOpen",
+        "EMIbanner_id": "/21952429235,22479114759/HeetVaddoriya_com.loanemi.emicalculator.loanemicalculator_Banner",
+        "EMInative_id": "/21952429235,22479114759/HeetVaddoriya_com.loanemi.emicalculator.loanemicalculator_Native",
+        "EMIinterstitial_id": "/21952429235,22479114759/HeetVaddoriya_com.loanemi.emicalculator.loanemicalculator_Interstitial"
     },
     "facebook": {
         "EMIbanner_id": "",
@@ -17,10 +17,10 @@
         "EMIinterstitial_id": ""
     },
     "frequency_capping": {
-        "EMIfrequency_banner": "0",
-        "EMIfrequency_native": "0",
-        "EMIfrequency_interstitial": "0",
-        "EMIfrequency_Backinterstitial": "0",
+        "EMIfrequency_banner": "1",
+        "EMIfrequency_native": "2",
+        "EMIfrequency_interstitial": "3",
+        "EMIfrequency_Backinterstitial": "3",
         "EMIfrequency_affiliate": "0"
     },
     "extra": {
@@ -35,9 +35,9 @@
         "EMInativeclickupgrade": 0,
         "EMIaffiliate_url": "null",
         "EMINaffiliate_url": "null",
-        "EMIfbAppID": "1234",
-        "EMIfbClientID": "5678",
-        "EMIuserTracking": 0,
+        "EMIfbAppID": "469388745687622",
+        "EMIfbClientID": "eb1c65962bcef3d4ada20dafcaab74b1",
+        "EMIuserTracking": 1,
         "EMIuserTrackingURL": "utm_source=google-play&utm_medium=organic",
         "EMIuserTrackingType": 0,
         "EMIcollapsizeBanner": 0,
@@ -46,38 +46,39 @@
         "EMINativeisBannerAdShown": false,
         "EMIBannerisNativeAdShown": false,
         "EMIReturnUserCare": false,
-        "EMIenableNotify": ""
+        "EMIenableNotify": "8b95e075-042d-46a8-8f05-2df16b963e68"
     },
     "appInstallextra": {
-        "adStatus": 0,
-        "admob_adstatus": 0,
+        "adStatus": 1,
+        "admob_adstatus": 1,
         "facebook_adstatus": 0,
-        "appopen_id": "",
-        "banner_id": "",
-        "native_id": "",
+        "appopen_id": "/21952429235,22479114759/HeetVaddoriya_com.loanemi.emicalculator.loanemicalculator_AppOpen",
+        "banner_id": "/21952429235,22479114759/HeetVaddoriya_com.loanemi.emicalculator.loanemicalculator_Banner",
+        "native_id": "/21952429235,22479114759/HeetVaddoriya_com.loanemi.emicalculator.loanemicalculator_Native",
+        "interstitial_id": "/21952429235,22479114759/HeetVaddoriya_com.loanemi.emicalculator.loanemicalculator_Interstitial",
         "fb_banner_id": "",
         "fb_native_id": "",
         "fb_interstitial_id": "",
         "frequency_banner": "0",
         "frequency_native": "0",
-        "frequency_interstitial": "0",
-        "frequency_Backinterstitial": "0",
+        "frequency_interstitial": "2",
+        "frequency_Backinterstitial": "2",
         "frequency_affiliate": "0",
-        "extrascreen": "0",
+        "extrascreen": "1",
         "interAdDialog": 0,
-        "nativeLayoutRandom": 0,
+        "nativeLayoutRandom": 1,
         "nativeType": "default",
-        "bannerTimer": 200000,
+        "bannerTimer": 7000,
         "CollapsiblebannerTimer": 200000,
-        "nativeclickupgrade": 0,
+        "nativeclickupgrade": 1,
         "affiliate_url": "null",
+        "naffiliate_url": "null",
         "collapsizeBanner": 0,
         "OpenisInter": false,
         "someTimeAgain": 0,
         "NativeisBannerAdShown": false,
         "BannerisNativeAdShown": false,
-        "EMIReturnUserCare": false,
-        "enableNotify": ""
+        "EMIReturnUserCare": false
     },
     "customBanner": []
 }
